@@ -9,3 +9,13 @@ A=a*b
 d=sqrt(a*a+b*b)
 R=d/2
 print(p,A,d,R)
+
+
+
+2)
+a=int(input())
+t=a+62
+print(a+62)
+v=t%100+t//100
+print(v)
+print(a-v)

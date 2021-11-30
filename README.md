@@ -36,3 +36,18 @@ elif 7<h<10 or 17<h<19 :
     print("Bus toutes les 7 minutes")
 else: 
     print("Bus toutes les 10 minutes")
+    
+    
+   4)
+a=int(input())
+b=int(input())
+if 1<=a<=15 :
+    if b%2 ==0:
+        print(False)
+    else: 
+        print(True)
+else :
+    if b%2 ==0:
+        print(True)
+    else: 
+        print(False)     
